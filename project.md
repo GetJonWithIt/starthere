@@ -1,0 +1,4 @@
+# Project Name
+Automated Theorem Proving for Equational Logic
+# Project Description
+Equational logic is a simplification of first-order logic that uses the equals sign as its only predicate symbol. The objective of this project is to build a function which automatically generates proofs of theorems in equational logic, using the pre-existing Knuth-Bendix _unfailing completion_ algorithm implemented in Waldmeister, as well as the technique of _paramodulation_ for equational resolution. In particular, the project will focus on methods for presenting such proofs in a human-readable way, for instance by finding the appropriate _conceptual waypoints_ for guiding a reader through the logic of a proof, and by presenting the steps in an order that would make intuitive sense to a human mathematician.
